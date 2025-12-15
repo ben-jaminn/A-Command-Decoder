@@ -1,0 +1,16 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Editor Temporary Files
+*.swp
+*~
+.DS_Store
