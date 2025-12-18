@@ -1,11 +1,10 @@
-# 📱 UserLAnd Development Hub (Redmi 14C)
+# 📱 UserLAnd Development Hub
 
-This repository serves as the central environment for running scripts, managing terminal configurations, and documenting puzzle solutions within the **UserLAnd** terminal on the **Redmi 14C**.
+This repository serves as the central environment for running scripts, managing terminal configurations, and documenting puzzle solutions within the **UserLAnd** terminal.
 
 ---
 
 ## 🛠️ System Specifications
-- **Device:** Xiaomi Redmi 14C
 - **Environment:** UserLAnd (Linux Emulation)
 - **Architecture:** ARM64
 - **Primary Editor:** Nano / Vim
