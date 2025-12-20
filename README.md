@@ -29,3 +29,5 @@ Before running any code, ensure your local UserLAnd packages are synchronized:
 ```bash
 chmod +x setup.sh
 ./setup.sh
+
+Final: Developed a Multi-Zone Security Hub using Arrays of Structs and nested tokenization, capable of independent zone tracking and dashboard reporting.
